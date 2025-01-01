@@ -74,7 +74,10 @@ body {
     background-color: #ccc;
     border: none;
     border-radius: 5px;
-    cursor: not-allowed;
+   cursor: pointer; /* Enable cursor interaction */
+}
+.login-button:hover {
+    background-color: #5a54e0; /* Slightly darker for hover */
 }
 
 .new-account {
