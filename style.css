@@ -74,7 +74,7 @@ body {
     background-color: #ccc;
     border: none;
     border-radius: 5px;
-    cursor: not-allowed;
+    cursor: pointer;
 }
 
 .new-account {
